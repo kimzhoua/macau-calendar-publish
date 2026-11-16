@@ -1,9 +1,9 @@
 {
-  "versionCode": 54,
-  "versionName": "1.9.17",
+  "versionCode": 56,
+  "versionName": "1.9.19",
   "apkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
   "rawApkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
   "manifestUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/update.json",
-  "sha256": "be98d15f43520b0ea289a74914706c72c539070a64a11aa49c45732313671147",
-  "notes": "1. OTA 测试版\n2. 空月份提示区分「本月无公众假期」与「官方未公布」"
+  "sha256": "9dc3789be5e5ee5d0d16560a8c8bd4b91d1f1d1d202c66be6272b80ac1a02bd5",
+  "notes": "1. 更换为独立 release 签名（首装需卸载旧版）\n2. 更新清单增加 RSA 签名校验，验签失败拒绝更新"
 }
