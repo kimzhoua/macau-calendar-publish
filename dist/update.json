@@ -1,9 +1,9 @@
 {
-  "versionCode": 43,
-  "versionName": "1.9.6",
+  "versionCode": 44,
+  "versionName": "1.9.7",
   "apkUrl": "https://cdn.jsdelivr.net/gh/kimzhoua/macau-calendar-publish@main/dist/app-latest.apk",
   "rawApkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
   "manifestUrl": "https://cdn.jsdelivr.net/gh/kimzhoua/macau-calendar-publish@main/dist/update.json",
-  "sha256": "dfdcf396937fac6f6c0b5ca6d100d386e584e455da9e615ce18742ef7290c0ef",
-  "notes": "1. 空月份提示区分「本月无公众假期」与「官方未公布」\n2. 自动联网补数据只在整年缺数据时触发"
+  "sha256": "f5b491387ebfe56f466d30ac547463c0f6032844bc63c818bb5e3cbf50c2c903",
+  "notes": "1. 内置更新源改为本仓库（jsDelivr 优先）\n2. 空月份提示区分「本月无公众假期」与「官方未公布」"
 }
