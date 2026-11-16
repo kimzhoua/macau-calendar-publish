@@ -1,9 +1,9 @@
 {
-  "versionCode": 52,
-  "versionName": "1.9.15",
+  "versionCode": 53,
+  "versionName": "1.9.16",
   "apkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
   "rawApkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
   "manifestUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/update.json",
-  "sha256": "cd45c046dd0f269785890faea4ad1775fe1e0d444cc7f8a2d95284341fa4a027",
-  "notes": "1. OTA 链路验证版\n2. 空月份提示区分「本月无公众假期」与「官方未公布」"
+  "sha256": "b9de16af8ba81ce145adaed310ff8f0ff15e0ca3b8c8c77f14b5eddae79afba9",
+  "notes": "1. OTA 测试版\n2. 空月份提示区分「本月无公众假期」与「官方未公布」"
 }
