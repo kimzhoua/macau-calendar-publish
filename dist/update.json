@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "1.9.8",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/kimzhoua/macau-calendar-publish@main/dist/app-latest.apk",
+  "versionCode": 47,
+  "versionName": "1.9.10",
+  "apkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
   "rawApkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
-  "manifestUrl": "https://cdn.jsdelivr.net/gh/kimzhoua/macau-calendar-publish@main/dist/update.json",
-  "sha256": "2c67e8109965956967075f244a304dccf26e8b75c0d5260c22d1137af4979083",
-  "notes": "1. OTA 更新流程实测版\n2. 空月份提示区分「本月无公众假期」与「官方未公布」"
+  "manifestUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/update.json",
+  "sha256": "ff7385e80254180ffe3dfac690ff1bc612c3c7526626e4897eb1a392b435832a",
+  "notes": "1. OTA 实测版：清单与安装包都走 raw 直链，避开 CDN 分支缓存\n2. 空月份提示区分「本月无公众假期」与「官方未公布」"
 }
