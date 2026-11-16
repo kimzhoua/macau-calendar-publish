@@ -1,9 +1,4 @@
 {
-  "versionCode": 57,
-  "versionName": "1.9.20",
-  "apkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
-  "rawApkUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk",
-  "manifestUrl": "https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/update.json",
-  "sha256": "0745714ee8010c2ce4435821eeac8ca47437bd5ee529b888cd52b81840421287",
-  "notes": "1. 修复签名文件经 API 获取时请求头问题\n2. 更新清单 RSA 验签，验签失败拒绝更新"
+  "payload": "{\n  \"versionCode\": 58,\n  \"versionName\": \"1.9.21\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/app-latest.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/macau-calendar-publish/main/dist/update.json\",\n  \"sha256\": \"16e4576ef81cc172d9491d276e0a107d2caa12a4cf4002019b303a0386e33fb7\",\n  \"notes\": \"1. 清单改为单文件自包含签名（payload + sig），彻底避免签名与内容缓存错配\\n2. 更新清单 RSA 验签，验签失败拒绝更新\"\n}",
+  "sig": "Xntg+68UtNCfGVOpKUBK4xDmcUj2jutgc9h3YSX9qKS3+PqKEKCpv0pzcIlLsMQQLgWng7FfV4aRIw/dJpn28/6Fjn8Ju2fh0Fuh5Ff45vRe3TFQPksQkEUfdjw1qqtQjqJYFTW1PF4f47riZA9KSEbmdubIl5K5/+F06TveAYKbvataCSiZSNyY17rlx+nizMfPOs1oo6l/rHGIhzJzUENZJ5UG0H28XSbftv6CCZTh0fJetiuT9TnRTxCXzBAoVgzZvymm8HDfjBT2Kmqg8XhXulYorRiOXW1EjIq9YDISLuxImtU8URE1voO/M44AGuxUD8Z25nX8OVV/U8avaA=="
 }
